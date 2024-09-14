@@ -1,1 +1,0 @@
-quiero saber como se elimina un documento de un commit
